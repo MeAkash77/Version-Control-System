@@ -1,13 +1,4 @@
-Gitless
-=======
-
-[![PyPI version](https://img.shields.io/pypi/v/gitless.svg)](https://pypi.org/project/gitless "PyPI version")
-[![Homebrew Formula](https://img.shields.io/homebrew/v/gitless.svg)](https://formulae.brew.sh/formula/gitless "Homebrew Formula")
-
-[![Travis Build Status](https://img.shields.io/travis/gitless-vcs/gitless/master.svg)](https://travis-ci.org/gitless-vcs/gitless "Travis Build Status")
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/gitless-vcs/gitless?svg=true)](https://ci.appveyor.com/project/spderosso/gitless-11bfm "AppVeyor Build Status")
-
-[Gitless](http://gitless.com "Gitless's website") is a version control system built on top of Git, that is easy to learn and use:
+ version control system
 
 - **Simple commit workflow**
 
